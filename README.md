@@ -1,4 +1,4 @@
-# Random Quote - ES5
+# Random Quote - ES5, ES6, TypeScript
 
 A simple Angular 2 web application that displays a random quote on the page.
 
